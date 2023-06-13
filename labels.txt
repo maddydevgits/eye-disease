@@ -1,0 +1,5 @@
+0 BulgingEyes
+1 Cataracts
+2 CrossedEyes
+3 Galcouma
+4 Uveitis
